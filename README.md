@@ -1,4 +1,10 @@
 # React + Vite
+# PROJETO COM COFIGURAÇÃO PARA CONSUMIR A API https://github.com/MayconLPE/API-USUARIOS 
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
